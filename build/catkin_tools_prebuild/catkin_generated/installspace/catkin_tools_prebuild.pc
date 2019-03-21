@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/coding/ethz_asl_UAV_autonomous/install
-
-Name: catkin_tools_prebuild
-Description: Description of catkin_tools_prebuild
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/ubuntu/coding/ethz_asl_UAV_autonomous/install/lib 
-Requires: 
