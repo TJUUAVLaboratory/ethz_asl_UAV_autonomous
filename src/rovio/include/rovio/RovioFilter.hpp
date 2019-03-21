@@ -44,6 +44,7 @@ namespace rovio {
  *  @tparam FILTERSTATE - \ref rovio::FilterState
  */
 template<typename FILTERSTATE>
+//定义ROVIO的类
 class RovioFilter:public LWF::FilterBase<ImuPrediction<FILTERSTATE>,
                                          ImgUpdate<FILTERSTATE>,
                                          PoseUpdate<FILTERSTATE,(int)(FILTERSTATE::mtState::nPose_>0)-1,(int)(FILTERSTATE::mtState::nPose_>1)*2-1>,

@@ -172,6 +172,7 @@ namespace rovio{
     }
   }
 
+  //
   bool Camera::bearingToPixel(const Eigen::Vector3d& vec, cv::Point2f& c) const{
     // Project
     if(vec(2)<=0) return false;
@@ -187,6 +188,7 @@ namespace rovio{
     return true;
   }
 
+  // 对相机归一化坐标再进行归一化
   bool Camera::bearingToPixel(const Eigen::Vector3d& vec, cv::Point2f& c, Eigen::Matrix<double,2,3>& J) const{
     // Project
     if(vec(2)<=0) return false;

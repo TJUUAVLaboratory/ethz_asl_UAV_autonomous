@@ -74,7 +74,7 @@ static constexpr int nPose_ = ROVIO_NPOSE;
 static constexpr int nPose_ = 0; // Additional pose states.
 #endif
 
-typedef rovio::RovioFilter<rovio::FilterState<nMax_,nLevels_,patchSize_,nCam_,nPose_>> mtFilter;
+typedef rovio::RovioFilter<rovio::FilterState<nMax_,nLevels_,patchSize_,nCam_,nPose_>>  mtFilter;
 
 #ifdef MAKE_SCENE
 static rovio::RovioScene<mtFilter> mRovioScene;

@@ -17,14 +17,17 @@ template<typename Meas>
 class MeasurementTimeline{
  public:
   typedef Meas mtMeas;
+  // 测量数据存在map中， key是time value是 加速度/角速度/图像金字塔
   std::map<double,mtMeas> measMap_;
   typename std::map<double,mtMeas>::iterator itMeas_;
   double maxWaitTime_;
   double minWaitTime_;
-  MeasurementTimeline(){
-    maxWaitTime_ = 0.1;
-    minWaitTime_ = 0.0;
-  };
+
+    MeasurementTimeline(){
+      maxWaitTime_ = 0.1;
+      minWaitTime_ = 0.0;
+    };
+
   virtual ~MeasurementTimeline(){};
   void addMeas(const mtMeas& meas, const double& t){
     measMap_[t] = meas;
@@ -81,7 +84,10 @@ class FilterBase: public PropertyHandler{
   mtFilterState safe_;
   mtFilterState front_;
   mtFilterState init_;
+
+  //IMU的prediction
   MeasurementTimeline<typename mtPrediction::mtMeas> predictionTimeline_;
+  //图像的update
   std::tuple<MeasurementTimeline<typename Updates::mtMeas>...> updateTimelineTuple_;
   mtPrediction mPrediction_;
   typedef std::tuple<Updates...> mtUpdates;
@@ -110,6 +116,7 @@ class FilterBase: public PropertyHandler{
     logCountDiagnostics_ = false;
     updateToUpdateMeasOnly_ = false;
   };
+
   virtual ~FilterBase(){
   };
   void reset(double t = 0.0){
@@ -130,7 +137,10 @@ class FilterBase: public PropertyHandler{
   template<int i=0, typename std::enable_if<(i>=nUpdates_)>::type* = nullptr>
   void registerUpdates(){
   }
-  void addPredictionMeas(const typename Prediction::mtMeas& meas, double t){
+
+  //加入IMU测量值
+  void addPredictionMeas(const typename Prediction::mtMeas& meas, double t)
+  {
     if(t<= safeWarningTime_) {
       std::cout << "[FilterBase::addPredictionMeas] Warning: included measurements at time " << t << " before safeTime " << safeWarningTime_ << std::endl;
     }
@@ -138,6 +148,8 @@ class FilterBase: public PropertyHandler{
     if(t<= frontWarningTime_) gotFrontWarning_ = true;
     predictionTimeline_.addMeas(meas,t);
   }
+
+  // 加入图像的更新
   template<int i>
   void addUpdateMeas(const typename std::tuple_element<i,decltype(mUpdates_)>::type::mtMeas& meas, double t){
     if(t<= safeWarningTime_) {
@@ -169,6 +181,8 @@ class FilterBase: public PropertyHandler{
   template<int i=0, typename std::enable_if<(i>=nUpdates_)>::type* = nullptr>
   void checkUpdateWaitTime(double actualTime,double& time){
   }
+
+  //根据传入时间进行EKF更新
   void updateSafe(const double* maxTime = nullptr){
     double nextSafeTime;
     bool gotSafeTime = getSafeTime(nextSafeTime);
