@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio
+
+Name: rovio
+Description: Description of rovio
+Version: 0.0.0
+Cflags: -I/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/include -I/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include -I/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/lightweight_filtering/include -I/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/kinetic/include/opencv-3.3.1-dev -I/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/usr/include/eigen3 -I/usr/include
+Libs: -L/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib -lrovio
+Requires: lightweight_filtering kindr roscpp roslib cv_bridge message_runtime nav_msgs geometry_msgs sensor_msgs std_msgs tf rosbag yaml_cpp_catkin

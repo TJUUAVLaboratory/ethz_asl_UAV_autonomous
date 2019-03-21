@@ -1,0 +1,3 @@
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/lightweight_filtering/cmake/lightweight_filteringConfig-version.cmake 1
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/pkgconfig/lightweight_filtering.pc 1
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/lightweight_filtering/cmake/lightweight_filteringConfig.cmake 1

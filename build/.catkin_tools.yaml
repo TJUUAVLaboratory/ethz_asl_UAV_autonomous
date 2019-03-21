@@ -1,0 +1,6 @@
+devel_space: /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel
+install: false
+install_space: /home/ubuntu/coding/ethz_asl_UAV_autonomous/install
+profile: default
+source_space: /home/ubuntu/coding/ethz_asl_UAV_autonomous/src
+workspace: /home/ubuntu/coding/ethz_asl_UAV_autonomous

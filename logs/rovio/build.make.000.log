@@ -1,0 +1,338 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _rovio_generate_messages_check_deps_SrvResetToPose[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[  0%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target topic_tools_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target _rovio_generate_messages_check_deps_SrvResetToPose
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target rovio_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rovio_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rovio_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rovio_generate_messages_py[0m
+[  5%] [34m[1mGenerating Lisp code from rovio/SrvResetToPose.srv[0m
+[35m[1mScanning dependencies of target rovio_generate_messages_eus[0m
+[ 11%] [34m[1mGenerating Javascript code from rovio/SrvResetToPose.srv[0m
+[ 16%] [34m[1mGenerating C++ code from rovio/SrvResetToPose.srv[0m
+[ 22%] [34m[1mGenerating Python code from SRV rovio/SrvResetToPose[0m
+[ 27%] [34m[1mGenerating EusLisp code from rovio/SrvResetToPose.srv[0m
+[ 33%] [34m[1mGenerating EusLisp manifest code for rovio[0m
+[ 33%] Built target rovio_generate_messages_lisp
+[ 33%] Built target rovio_generate_messages_nodejs
+WARNING: Package name "ORB_SLAM" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "ORB_SLAM2" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 38%] [34m[1mGenerating Python srv __init__.py for rovio[0m
+[ 38%] Built target rovio_generate_messages_py
+[ 38%] Built target rovio_generate_messages_cpp
+WARNING: Package name "ORB_SLAM" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "ORB_SLAM2" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 38%] Built target rovio_generate_messages_eus
+[35m[1mScanning dependencies of target rovio[0m
+[35m[1mScanning dependencies of target rovio_generate_messages[0m
+[ 38%] Built target rovio_generate_messages
+[ 44%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/Camera.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/Scene.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/librovio.so[0m
+[ 66%] Built target rovio
+[35m[1mScanning dependencies of target rovio_node[0m
+[35m[1mScanning dependencies of target rovio_rosbag_loader[0m
+[35m[1mScanning dependencies of target feature_tracker_node[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o[0m
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:40:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ZeroVelocityUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::ZeroVelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:217:35:[m[K   required from ‘[01m[Kclass rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioScene.hpp:41:42:[m[K   required from ‘[01m[Kclass rovio::RovioScene<rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:80:36:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ZeroVelocityUpdate.hpp:144:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::ZeroVelocityUpdate<FILTERSTATE>::evalInnovation(rovio::ZeroVelocityUpdate<FILTERSTATE>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; rovio::ZeroVelocityUpdate<FILTERSTATE>::mtInnovation = rovio::ZeroVelocityInnovation<rovio::State<25u, 4, 6, 1, 0> >; rovio::ZeroVelocityUpdate<FILTERSTATE>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::ZeroVelocityUpdate<FILTERSTATE>::mtNoise = rovio::ZeroVelocityUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::ZeroVelocityInnovation<rovio::State<25u, 4, 6, 1, 0> >; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::ZeroVelocityUpdateMeas<rovio::State<25u, 4, 6, 1, 0> >; Noise = rovio::ZeroVelocityUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >; OutlierDetection = rovio::ZeroVelocityOutlierDetection<rovio::State<25u, 4, 6, 1, 0> >; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::ZeroVelocityInnovation<rovio::State<25u, 4, 6, 1, 0> >; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::ZeroVelocityUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioScene.hpp:41:42:[m[K   required from ‘[01m[Kclass rovio::RovioScene<rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:80:36:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:406:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::ImgUpdate<FILTERSTATE>::evalInnovation(rovio::ImgUpdate<FILTERSTATE>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; rovio::ImgUpdate<FILTERSTATE>::mtInnovation = rovio::ImgInnovation<rovio::State<25u, 4, 6, 1, 0> >; rovio::ImgUpdate<FILTERSTATE>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::ImgUpdate<FILTERSTATE>::mtNoise = rovio::ImgUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::ImgInnovation<rovio::State<25u, 4, 6, 1, 0> >; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::ImgUpdateMeas<rovio::State<25u, 4, 6, 1, 0> >; Noise = rovio::ImgUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >; OutlierDetection = rovio::ImgOutlierDetection<rovio::State<25u, 4, 6, 1, 0> >; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::ImgInnovation<rovio::State<25u, 4, 6, 1, 0> >; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::ImgUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:36:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/PoseUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioScene.hpp:41:42:[m[K   required from ‘[01m[Kclass rovio::RovioScene<rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:80:36:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/PoseUpdate.hpp:227:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::evalInnovation(rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; int inertialPoseIndex = -1; int bodyPoseIndex = -1; rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtInnovation = rovio::PoseInnovation; rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtNoise = rovio::PoseUpdateNoise][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::PoseInnovation; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::PoseUpdateMeas; Noise = rovio::PoseUpdateNoise; OutlierDetection = rovio::PoseOutlierDetection; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::PoseInnovation; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::PoseUpdateNoise][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:37:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/VelocityUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioScene.hpp:41:42:[m[K   required from ‘[01m[Kclass rovio::RovioScene<rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:80:36:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/VelocityUpdate.hpp:166:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::VelocityUpdate<FILTERSTATE>::evalInnovation(rovio::VelocityUpdate<FILTERSTATE>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; rovio::VelocityUpdate<FILTERSTATE>::mtInnovation = rovio::VelocityInnovation; rovio::VelocityUpdate<FILTERSTATE>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::VelocityUpdate<FILTERSTATE>::mtNoise = rovio::VelocityUpdateNoise][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::VelocityInnovation; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::VelocityUpdateMeas; Noise = rovio::VelocityUpdateNoise; OutlierDetection = rovio::VelocityOutlierDetection; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::VelocityInnovation; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::VelocityUpdateNoise][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:40:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ZeroVelocityUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::ZeroVelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:217:35:[m[K   required from ‘[01m[Kclass rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:87:42:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ZeroVelocityUpdate.hpp:144:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::ZeroVelocityUpdate<FILTERSTATE>::evalInnovation(rovio::ZeroVelocityUpdate<FILTERSTATE>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; rovio::ZeroVelocityUpdate<FILTERSTATE>::mtInnovation = rovio::ZeroVelocityInnovation<rovio::State<25u, 4, 6, 1, 0> >; rovio::ZeroVelocityUpdate<FILTERSTATE>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::ZeroVelocityUpdate<FILTERSTATE>::mtNoise = rovio::ZeroVelocityUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::ZeroVelocityInnovation<rovio::State<25u, 4, 6, 1, 0> >; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::ZeroVelocityUpdateMeas<rovio::State<25u, 4, 6, 1, 0> >; Noise = rovio::ZeroVelocityUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >; OutlierDetection = rovio::ZeroVelocityOutlierDetection<rovio::State<25u, 4, 6, 1, 0> >; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::ZeroVelocityInnovation<rovio::State<25u, 4, 6, 1, 0> >; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::ZeroVelocityUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:87:42:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:406:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::ImgUpdate<FILTERSTATE>::evalInnovation(rovio::ImgUpdate<FILTERSTATE>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; rovio::ImgUpdate<FILTERSTATE>::mtInnovation = rovio::ImgInnovation<rovio::State<25u, 4, 6, 1, 0> >; rovio::ImgUpdate<FILTERSTATE>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::ImgUpdate<FILTERSTATE>::mtNoise = rovio::ImgUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::ImgInnovation<rovio::State<25u, 4, 6, 1, 0> >; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::ImgUpdateMeas<rovio::State<25u, 4, 6, 1, 0> >; Noise = rovio::ImgUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >; OutlierDetection = rovio::ImgOutlierDetection<rovio::State<25u, 4, 6, 1, 0> >; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::ImgInnovation<rovio::State<25u, 4, 6, 1, 0> >; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::ImgUpdateNoise<rovio::State<25u, 4, 6, 1, 0> >][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:36:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/PoseUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:87:42:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/PoseUpdate.hpp:227:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::evalInnovation(rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; int inertialPoseIndex = -1; int bodyPoseIndex = -1; rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtInnovation = rovio::PoseInnovation; rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::PoseUpdate<FILTERSTATE, inertialPoseIndex, bodyPoseIndex>::mtNoise = rovio::PoseUpdateNoise][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::PoseInnovation; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::PoseUpdateMeas; Noise = rovio::PoseUpdateNoise; OutlierDetection = rovio::PoseOutlierDetection; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::PoseInnovation; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::PoseUpdateNoise][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:37:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/VelocityUpdate.hpp: In instantiation of ‘[01m[Kclass rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:90:64:[m[K   required from ‘[01m[Kclass LWF::FilterBase<rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> > >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:47:7:[m[K   required from ‘[01m[Kclass rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >[m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:87:42:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/VelocityUpdate.hpp:166:8:[m[K [01;31m[Kerror: [m[Kconflicting return type specified for ‘[01m[Kvoid rovio::VelocityUpdate<FILTERSTATE>::evalInnovation(rovio::VelocityUpdate<FILTERSTATE>::mtInnovation&, const mtState&, const mtNoise&) const [with FILTERSTATE = rovio::FilterState<25u, 4, 6, 1, 0>; rovio::VelocityUpdate<FILTERSTATE>::mtInnovation = rovio::VelocityInnovation; rovio::VelocityUpdate<FILTERSTATE>::mtState = rovio::State<25u, 4, 6, 1, 0>; rovio::VelocityUpdate<FILTERSTATE>::mtNoise = rovio::VelocityUpdateNoise][m[K’
+   void evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const{
+[01;32m[K        ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/ImgUpdate.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:35[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/Update.hpp:158:16:[m[K [01;31m[Kerror: [m[K  overriding ‘[01m[Kbool LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::evalInnovation(LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation&, const mtState&, const mtNoise&) const [with Innovation = rovio::VelocityInnovation; FilterState = rovio::FilterState<25u, 4, 6, 1, 0>; Meas = rovio::VelocityUpdateMeas; Noise = rovio::VelocityUpdateNoise; OutlierDetection = rovio::VelocityOutlierDetection; bool isCoupled = false; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtInnovation = rovio::VelocityInnovation; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtState = rovio::State<25u, 4, 6, 1, 0>; LWF::Update<Innovation, FilterState, Meas, Noise, OutlierDetection, isCoupled>::mtNoise = rovio::VelocityUpdateNoise][m[K’
+   virtual bool evalInnovation(mtInnovation& y, const mtState& state, const mtNoise& noise) const = 0;
+[01;32m[K                ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:38:0[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp: In instantiation of ‘[01m[Kvoid rovio::RovioNode<FILTER>::updateAndPublish() [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >][m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp:447:23:[m[K   required from ‘[01m[Kvoid rovio::RovioNode<FILTER>::imuCallback(const ConstPtr&) [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >; sensor_msgs::Imu_<std::allocator<void> >::ConstPtr = boost::shared_ptr<const sensor_msgs::Imu_<std::allocator<void> > >][m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:184:55:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp:643:9:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >::updateSafe(double*)[m[K’
+         mpFilter_->updateSafe(&lastImageTime);
+[01;32m[K         ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_rosbag_loader.cpp:37[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:189:8:[m[K [01;36m[Knote: [m[Kcandidate: void LWF::FilterBase<Prediction, Updates>::updateSafe() [with Prediction = rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >; Updates = {rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >}]
+   void updateSafe() {
+[01;32m[K        ^[m[K
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:189:8:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 1 provided
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:42:0[m[K:
+/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp: In instantiation of ‘[01m[Kvoid rovio::RovioNode<FILTER>::updateAndPublish() [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >][m[K’:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp:447:23:[m[K   required from ‘[01m[Kvoid rovio::RovioNode<FILTER>::imuCallback(const ConstPtr&) [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >; sensor_msgs::Imu_<std::allocator<void> >::ConstPtr = boost::shared_ptr<const sensor_msgs::Imu_<std::allocator<void> > >][m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp:208:43:[m[K   required from ‘[01m[Krovio::RovioNode<FILTER>::RovioNode(ros::NodeHandle&, ros::NodeHandle&, std::shared_ptr<_Tp1>) [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >][m[K’
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:113:64:[m[K   required from here
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioNode.hpp:643:9:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >::updateSafe(double*)[m[K’
+         mpFilter_->updateSafe(&lastImageTime);
+[01;32m[K         ^[m[K
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/RovioFilter.hpp:33:0[m[K,
+                 from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/rovio_node.cpp:41[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:189:8:[m[K [01;36m[Knote: [m[Kcandidate: void LWF::FilterBase<Prediction, Updates>::updateSafe() [with Prediction = rovio::ImuPrediction<rovio::FilterState<25u, 4, 6, 1, 0> >; Updates = {rovio::ImgUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >, rovio::PoseUpdate<rovio::FilterState<25u, 4, 6, 1, 0>, -1, -1>, rovio::VelocityUpdate<rovio::FilterState<25u, 4, 6, 1, 0> >}]
+   void updateSafe() {
+[01;32m[K        ^[m[K
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/maplab_lightweight_filtering/include/lightweight_filtering/FilterBase.hpp:189:8:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 1 provided
+[ 88%] [32m[1mLinking CXX executable /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/rovio/feature_tracker_node[0m
+CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o: In function `LWF::NormalVectorElement::get(unsigned int) const':
+feature_tracker_node.cpp:(.text._ZNK3LWF19NormalVectorElement3getEj[_ZNK3LWF19NormalVectorElement3getEj]+0x3e): undefined reference to `google::LogMessageFatal::LogMessageFatal(char const*, int)'
+feature_tracker_node.cpp:(.text._ZNK3LWF19NormalVectorElement3getEj[_ZNK3LWF19NormalVectorElement3getEj]+0x46): undefined reference to `google::LogMessage::stream()'
+feature_tracker_node.cpp:(.text._ZNK3LWF19NormalVectorElement3getEj[_ZNK3LWF19NormalVectorElement3getEj]+0x63): undefined reference to `google::LogMessageFatal::~LogMessageFatal()'
+CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o: In function `LWF::NormalVectorElement::get(unsigned int)':
+feature_tracker_node.cpp:(.text._ZN3LWF19NormalVectorElement3getEj[_ZN3LWF19NormalVectorElement3getEj]+0x3e): undefined reference to `google::LogMessageFatal::LogMessageFatal(char const*, int)'
+feature_tracker_node.cpp:(.text._ZN3LWF19NormalVectorElement3getEj[_ZN3LWF19NormalVectorElement3getEj]+0x46): undefined reference to `google::LogMessage::stream()'
+feature_tracker_node.cpp:(.text._ZN3LWF19NormalVectorElement3getEj[_ZN3LWF19NormalVectorElement3getEj]+0x63): undefined reference to `google::LogMessageFatal::~LogMessageFatal()'
+collect2: error: ld returned 1 exit status
+CMakeFiles/feature_tracker_node.dir/build.make:146: recipe for target '/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/rovio/feature_tracker_node' failed
+make[2]: *** [/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/rovio/feature_tracker_node] Error 1
+CMakeFiles/Makefile2:2695: recipe for target 'CMakeFiles/feature_tracker_node.dir/all' failed
+make[1]: *** [CMakeFiles/feature_tracker_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+CMakeFiles/rovio_node.dir/build.make:62: recipe for target 'CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o' failed
+make[2]: *** [CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/rovio_node.dir/all' failed
+make[1]: *** [CMakeFiles/rovio_node.dir/all] Error 2
+CMakeFiles/rovio_rosbag_loader.dir/build.make:62: recipe for target 'CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o' failed
+make[2]: *** [CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o] Error 1
+CMakeFiles/Makefile2:1727: recipe for target 'CMakeFiles/rovio_rosbag_loader.dir/all' failed
+make[1]: *** [CMakeFiles/rovio_rosbag_loader.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

@@ -1,0 +1,5 @@
+Parse error in command line argument: -DMAKE_SCENE-ON
+Should be: VAR:type=value
+CMake Error: No cmake script provided.
+CMake Error: Problem processing arguments. Aborting.
+

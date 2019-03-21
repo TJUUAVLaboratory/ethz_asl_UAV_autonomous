@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio
+
+Name: lightweight_filtering
+Description: Description of lightweight_filtering
+Version: 0.0.9
+Cflags: -I/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/lightweight_filtering/include -I/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/include -I/usr/include/eigen3
+Libs: -L/home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib 
+Requires: 

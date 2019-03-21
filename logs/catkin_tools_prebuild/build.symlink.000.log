@@ -1,0 +1,8 @@
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/./setup.zsh
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/./setup.sh
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/./setup.bash
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/./_setup_util.py
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/./env.sh
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

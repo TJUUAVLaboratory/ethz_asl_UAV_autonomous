@@ -1,0 +1,86 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target _rovio_generate_messages_check_deps_SrvResetToPose
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  5%] Built target rovio_generate_messages_nodejs
+[ 11%] Built target rovio_generate_messages_lisp
+[ 38%] Built target rovio_generate_messages_cpp
+[ 38%] Built target rovio_generate_messages_py
+[ 38%] Built target rovio_generate_messages_eus
+[35m[1mScanning dependencies of target rovio[0m
+[ 38%] Built target rovio_generate_messages
+[ 44%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/Scene.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/Camera.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/librovio.so[0m
+[ 66%] Built target rovio
+[35m[1mScanning dependencies of target rovio_node[0m
+[35m[1mScanning dependencies of target feature_tracker_node[0m
+[35m[1mScanning dependencies of target rovio_rosbag_loader[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o[0m
+[ 88%] [32m[1mLinking CXX executable /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/rovio/feature_tracker_node[0m
+[ 88%] Built target feature_tracker_node
+[ 94%] [32m[1mLinking CXX executable /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/rovio/rovio_node[0m
+[ 94%] Built target rovio_node
+[100%] [32m[1mLinking CXX executable /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/rovio/rovio_rosbag_loader[0m
+[100%] Built target rovio_rosbag_loader

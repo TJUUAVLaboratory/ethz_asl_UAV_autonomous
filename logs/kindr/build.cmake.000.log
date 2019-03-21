@@ -1,0 +1,33 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 5.4.0
+[36m--[0m The CXX compiler identification is GNU 5.4.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Found Eigen: /usr/include/eigen3 (Required is at least version "2.91.0")
+[36m--[0m Using Eigen of version 3.2.92 from /usr/include/eigen3
+[36m--[0m Setting build type to 'Release' as none was specified.
+[36m--[0m Setting build-tests to false as not specified.
+[36m--[0m Could NOT find Doxygen (missing:  DOXYGEN_EXECUTABLE)
+[36m--[0m Doxygen not found
+[33m[1mCMake Warning[0m at /home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/kindr/CMakeLists.txt:105 (export):
+  Cannot create package registry file:
+
+    /home/ubuntu/.cmake/packages/kindr/5a6476eb18e466431cca70033a87e210
+
+  No such file or directory
+
+
+
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/ubuntu/coding/ethz_asl_UAV_autonomous/build/kindr

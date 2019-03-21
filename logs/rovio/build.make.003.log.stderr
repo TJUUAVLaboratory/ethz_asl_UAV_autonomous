@@ -1,0 +1,15 @@
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/Camera.cpp:1:0[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/Camera.hpp:32:44:[m[K [01;31m[Kfatal error: [m[Klightweight_filtering/common.hpp: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/rovio.dir/src/Camera.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/Scene.cpp:1:0[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/Scene.hpp:32:44:[m[K [01;31m[Kfatal error: [m[Klightweight_filtering/common.hpp: No such file or directory
+compilation terminated.
+In file included from [01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/src/FeatureCoordinates.cpp:1:0[m[K:
+[01m[K/home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/include/rovio/FeatureCoordinates.hpp:32:44:[m[K [01;31m[Kfatal error: [m[Klightweight_filtering/common.hpp: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/rovio.dir/src/Scene.cpp.o] Error 1
+make[2]: *** [CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rovio.dir/all] Error 2
+make: *** [all] Error 2

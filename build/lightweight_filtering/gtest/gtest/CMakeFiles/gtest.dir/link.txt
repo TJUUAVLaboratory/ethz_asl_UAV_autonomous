@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/ubuntu/coding/ethz_asl_UAV_autonomous/build/lightweight_filtering/gtest/gtest/src -lpthread -Wl,-rpath,/home/ubuntu/coding/ethz_asl_UAV_autonomous/build/lightweight_filtering/gtest/gtest/src 

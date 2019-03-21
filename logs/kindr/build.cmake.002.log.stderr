@@ -1,0 +1,9 @@
+[33m[1mCMake Warning[0m at /home/ubuntu/coding/ethz_asl_UAV_autonomous/src/dependents/kindr/CMakeLists.txt:105 (export):
+  Cannot create package registry file:
+
+    /home/ubuntu/.cmake/packages/kindr/5a6476eb18e466431cca70033a87e210
+
+  No such file or directory
+
+
+

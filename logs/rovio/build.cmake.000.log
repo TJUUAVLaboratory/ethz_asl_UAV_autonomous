@@ -1,0 +1,67 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 5.4.0
+[36m--[0m The CXX compiler identification is GNU 5.4.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+CMake Warning (dev) at CMakeLists.txt:15 (add_subdirectory):
+  The source directory
+
+    /home/ubuntu/coding/ethz_asl_UAV_autonomous/src/rovio/lightweight_filtering
+
+  does not contain a CMakeLists.txt file.
+
+  CMake does not support this case but it used to work accidentally and is
+  being allowed for compatibility.
+
+  Policy CMP0014 is not set: Input directories must have CMakeLists.txt.  Run
+  "cmake --help-policy CMP0014" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[36m--[0m Found OpenCV: /opt/ros/kinetic (found version "3.3.1") found components:  core highgui imgproc features2d
+[36m--[0m Building ROVIO with openGL Scene Visualization
+[36m--[0m Found GLEW: /usr/include
+[36m--[0m Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so
+[36m--[0m Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so
+[36m--[0m Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1")
+[36m--[0m No yaml_cpp_catkin, using yaml-cpp system library instead.
+[36m--[0m Checking for module 'yaml-cpp>=0.5'
+[36m--[0m   Found yaml-cpp, version 0.5.2
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel;/home/ubuntu/coding/ros-mapping-ws/devel;/home/ubuntu/coding/ros-SLAM-ws/devel;/home/ubuntu/coding/MYNT-SDK/MYNT-EYE-D-SDK/wrappers/ros/devel;/home/ubuntu/coding/px4-simulation/avoidance_ros_ws/devel;/home/ubuntu/coding/px4-simulation/gazebo_ros_ws/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel;/home/ubuntu/coding/ros-mapping-ws/devel;/home/ubuntu/coding/ros-SLAM-ws/devel;/home/ubuntu/coding/MYNT-SDK/MYNT-EYE-D-SDK/wrappers/ros/devel;/home/ubuntu/coding/px4-simulation/avoidance_ros_ws/devel;/home/ubuntu/coding/px4-simulation/gazebo_ros_ws/devel;/opt/ros/kinetic
+[36m--[0m Found PythonInterp: /usr/bin/python (found version "2.7.12")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/ubuntu/coding/ethz_asl_UAV_autonomous/build/rovio/test_results
+[36m--[0m Found gmock sources under '/usr/src/gmock': gmock will be built
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - not found
+[36m--[0m Looking for pthread_create in pthreads
+[36m--[0m Looking for pthread_create in pthreads - not found
+[36m--[0m Looking for pthread_create in pthread
+[36m--[0m Looking for pthread_create in pthread - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found gtest sources under '/usr/src/gmock': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.14
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m rovio: 0 messages, 1 services
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/ubuntu/coding/ethz_asl_UAV_autonomous/build/rovio

@@ -1,0 +1,30 @@
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/librovio.so
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/python2.7/dist-packages/rovio/__init__.py
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/python2.7/dist-packages/rovio/srv/__init__.py
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/python2.7/dist-packages/rovio/srv/_SrvResetToPose.py
+Warning: Cannot symlink from /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/lib/pkgconfig/lightweight_filtering.pc to existing file /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/pkgconfig/lightweight_filtering.pc
+Warning: Source hash: 9cafa92895bec0f78546edfe54c461e7
+Warning: Dest hash: 422a7cac4b623e6e1325fba174b507f5
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/pkgconfig/rovio.pc
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/rovio/feature_tracker_node
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/rovio/rovio_node
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/lib/rovio/rovio_rosbag_loader
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/include/rovio/SrvResetToPose.h
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/include/rovio/SrvResetToPoseResponse.h
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/include/rovio/SrvResetToPoseRequest.h
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/roseus/ros/rovio/manifest.l
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/roseus/ros/rovio/srv/SrvResetToPose.l
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/common-lisp/ros/rovio/srv/rovio-srv.asd
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/common-lisp/ros/rovio/srv/SrvResetToPose.lisp
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/common-lisp/ros/rovio/srv/_package_SrvResetToPose.lisp
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/common-lisp/ros/rovio/srv/_package.lisp
+Warning: Cannot symlink from /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/.private/rovio/share/lightweight_filtering/cmake/lightweight_filteringConfig.cmake to existing file /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/lightweight_filtering/cmake/lightweight_filteringConfig.cmake
+Warning: Source hash: a4ce0eacbb12a3058cd6b6a13c33f469
+Warning: Dest hash: aa16b48ed0f9a6b51be8da4cea0ed4d2
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/gennodejs/ros/rovio/_index.js
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/gennodejs/ros/rovio/srv/_index.js
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/gennodejs/ros/rovio/srv/SrvResetToPose.js
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/rovio/cmake/rovio-msg-extras.cmake
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/rovio/cmake/rovioConfig.cmake
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/rovio/cmake/rovio-msg-paths.cmake
+Symlinking /home/ubuntu/coding/ethz_asl_UAV_autonomous/devel/share/rovio/cmake/rovioConfig-version.cmake

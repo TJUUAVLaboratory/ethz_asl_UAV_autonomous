@@ -1,0 +1,10 @@
+(cl:defpackage rovio-srv
+  (:use )
+  (:export
+   "SRVRESETTOPOSE"
+   "<SRVRESETTOPOSE-REQUEST>"
+   "SRVRESETTOPOSE-REQUEST"
+   "<SRVRESETTOPOSE-RESPONSE>"
+   "SRVRESETTOPOSE-RESPONSE"
+  ))
+
