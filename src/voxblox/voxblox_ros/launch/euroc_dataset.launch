@@ -2,11 +2,11 @@
 <launch>
   <arg name="play_bag" default="true" />
   <!--V1_01_easy V1_02_medium  V1_03_difficult  MH_01_easy -->
-  <arg name="bag_file" default="/home/ubuntu/dataset/EuRoc/V1_03_difficult.bag"/>
+  <arg name="bag_file" default="/home/ubuntu/dataset/EuRoc/V1_02_medium.bag"/>
   <!-- voxel_size 10cm -->
   <arg name="voxel_size" default="0.10"/>  
   <!-- TSDF integrator method fast / merged / simple -->
-  <arg name="method" default="merged"/>
+  <arg name="method" default="fast"/>
   <arg name="process_every_nth_frame" default="5" />
   <arg name="scale" default="0.5" />
 

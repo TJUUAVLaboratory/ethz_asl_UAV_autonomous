@@ -1,0 +1,5 @@
+
+- git: {local-name: mav_comm, uri: 'https://github.com/ethz-asl/mav_comm.git'}
+- git: {local-name: nlopt, uri: 'https://github.com/ethz-asl/nlopt.git'}
+- git: {local-name: ceres_catkin, uri: 'https://github.com/ethz-asl/ceres_catkin.git'}
+- git: {local-name: mav_trajectory_generation, uri: 'https://github.com/ethz-asl/mav_trajectory_generation.git'}
