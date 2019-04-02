@@ -1,6 +1,7 @@
 <launch>
   <arg name="mav_name" default="firefly"/>
   <arg name="world_name" default="$(find mav_local_planner)/worlds/maze_house.world"/>
+  <!-- <arg name="world_name" default="$(find mav_local_planner)/worlds/empty.world"/> -->
   <arg name="enable_logging" default="false" />
   <arg name="enable_ground_truth" default="true" />
   <arg name="log_file" default="$(arg mav_name)" />
